@@ -1,6 +1,6 @@
 # smart_family_doctor
 
-椤圭洰鑻辨枃鍚嶏細smart family doctor
-椤圭洰涓枃鍚嶏細鏅烘収瀹跺涵鍖荤敓
-椤圭洰绠�绉帮細sfd
+项目英文名：smart family doctor
+项目中文名：智慧家庭医生
+项目简称：sfd
 
