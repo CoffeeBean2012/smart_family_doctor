@@ -1,6 +1,8 @@
 # smart_family_doctor
 
-ÏîÄ¿Ó¢ÎÄÃû£ºsmart family doctor<br>
-ÏîÄ¿ÖĞÎÄÃû£ºÖÇ»Û¼ÒÍ¥Ò½Éú<br>
-ÏîÄ¿¼ò³Æ£ºsfd
+é¡¹ç›®è‹±æ–‡åï¼šsmart family doctor<br>
+é¡¹ç›®ä¸­æ–‡åï¼šæ™ºæ…§å®¶åº­åŒ»ç”Ÿ<br>
+é¡¹ç›®ç®€ç§°ï¼šsfd<br>
+
+#webç«¯ 
 
