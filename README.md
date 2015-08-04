@@ -1,8 +1,9 @@
 # smart_family_doctor
 
-项目英文名：smart family doctor<br>
-项目中文名：智慧家庭医生<br>
-项目简称：sfd<br>
+椤圭洰鑻辨枃鍚嶏細smart family doctor<br>
+椤圭洰涓枃鍚嶏細鏅烘収瀹跺涵鍖荤敓<br>
+椤圭洰绠�绉帮細sfd<br>
 
 #web
-组员：chenfwind
+
+缁勫憳chenfwind,mu'feng
