@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 out/
 web/WEB-INF/classes/
 .idea/
+=======
+out/
+web/WEB-INF/classes/
+.idea/
+>>>>>>> branch 'master' of git@github.com:CoffeeBean2012/smart_family_doctor_web.git
 *.iml
